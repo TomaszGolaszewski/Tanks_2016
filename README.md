@@ -13,7 +13,7 @@
   - Player II: arrows; tower rotation: ,(<) .(>) ; fire: /
   
 <p align="center">
-  <img src="Screens/Controls.png" height="500" alt="Controls">
+  <img src="Screens/Controls.png" alt="Controls">
   <br />
-  <img src="Screens/Tanks_Szczecin_2.png" height="500" alt="Tanks 2016">
+  <img src="Screens/Tanks_Szczecin_2.png" alt="Tanks 2016">
 </p>
