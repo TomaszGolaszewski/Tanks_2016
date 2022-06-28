@@ -1,7 +1,7 @@
 # Tanks_2016
 
 <p align="center">
-  <img src="Screens/Tanks_Lot_1.png" height="500" alt="Tanks 2016">
+  <img src="Screens/Tanks_Lot_1.png" alt="Tanks 2016">
 </p>
 
 ## About
