@@ -18,5 +18,7 @@
 <p align="center">
   <img src="Screens/Controls.png" alt="Controls">
   <br />
+  <img src="Screens/Tanks_Wioska_1.png" alt="Tanks 2016">
+  <br />
   <img src="Screens/Tanks_Szczecin_2.png" alt="Tanks 2016">
 </p>
